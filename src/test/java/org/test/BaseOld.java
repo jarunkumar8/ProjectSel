@@ -7,7 +7,10 @@ public class BaseOld {
 
 	}
 	
+private void tc2() {
+	System.out.println("Another New class is created");
 
+}
 	
 
 }
